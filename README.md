@@ -113,34 +113,35 @@ This page is only for admins. Here you can choose between these options:
 ## Video Preview
 The Search Page allows you to look up drinks by name:
 
-<video src="./src/main/resources/static/assets/preview_video.mp4" width="500" controls>
-
-</video>
+<video src="./src/main/resources/static/assets/preview_video.mp4" width="500" controls></video>
 
 ## Screen Previews
 
 ### Search Page
 The Search Page allows you to look up drinks by name:
 
-<img src="./src/main/resources/static/assets/search.jpg" width="500">
+![Search Page](./src/main/resources/static/assets/search.jpg)
 
 ### Login Page
 Here is a preview of the Login Page where users and admins can sign into their accounts:
 
-<img src="./src/main/resources/static/assets/login.jpg" width="500">
+![Login Page](./src/main/resources/static/assets/login.jpg)
+
 
 ### User Item Page
 This is the User Item Page where users can view the details of a specific drink:
 
-<img src="./src/main/resources/static/assets/user-item.jpg" width="500">
+![User Item Page](./src/main/resources/static/assets/user-item.jpg)
 
 ### Admin Management Page
 The Admin Management Page provides admins with several management options:
 
-<img src="./src/main/resources/static/assets/admin-management.jpg" width="500">
+![Admin Management Page](./src/main/resources/static/assets/admin-management.jpg)
+
 
 ### Admin Item Management Page
 Finally, this is the Admin Item Management Page, where admins can manage the drink entries:
 
-<img src="./src/main/resources/static/assets/admin-item.jpg" width="500">
+![Admin Item Management Page](./src/main/resources/static/assets/admin-item.jpg)
+
 
