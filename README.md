@@ -111,7 +111,6 @@ This page is only for admins. Here you can choose between these options:
 - Add a new category to the storage.
 
 ## Video Preview
-The Search Page allows you to look up drinks by name:
 
 <video src="./src/main/resources/static/assets/preview_video.mp4" width="500" controls></video>
 
