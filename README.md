@@ -112,7 +112,9 @@ This page is only for admins. Here you can choose between these options:
 
 ## Video Preview
 
-<video src="./src/main/resources/static/assets/preview_video.mp4" width="500" controls></video>
+
+https://github.com/OriVered/mixologia/assets/76990617/2c5b2ae3-4136-4c97-9ecc-5401f2a5323f
+
 
 ## Screen Previews
 
