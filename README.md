@@ -2,7 +2,7 @@
 
 This project is a comprehensive online platform for reviewing and discussing a wide variety of alcoholic beverages.
 
-## Important Information for Grader
+## Important Information for Reviewer
 
 Please use the following credentials to explore different user capabilities in the system:
 
